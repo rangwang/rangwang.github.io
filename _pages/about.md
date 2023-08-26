@@ -12,7 +12,9 @@ My name is Zhuojun Li (李卓君). I am a postgraduate student at the Research C
 
 Publications
 ======
-- Xin Lu*, **Zhuojun Li\***, Yanpeng Tong*, Yanyan Zhao, Bing Qin. HIT-SCIR at WASSA 2023: Empathy and Emotion Analysis at the Utterance-Level and the Essay-Level. Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA-2023).  
+(* indicates equal contribution)  
+
+- Xin Lu\*, **Zhuojun Li\***, Yanpeng Tong*, Yanyan Zhao, Bing Qin. HIT-SCIR at WASSA 2023: Empathy and Emotion Analysis at the Utterance-Level and the Essay-Level. Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA-2023).  
 
 - Weixiang Zhao, Yanyan Zhao, **Zhuojun Li**, Bing Qin. Knowledge-bridged causal interaction network for causal emotion entailment. The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023).
 
