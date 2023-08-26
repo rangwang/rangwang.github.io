@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 My name is Zhuojun Li (李卓君). I am a postgraduate student at the Research Center for Social Computing and Information Retrieval (SCIR), Harbin Institute of Technology (HIT), China. My advisor is Prof. Yanyan Zhao. My research interests include sentiment analysis and stance detection.
@@ -24,4 +34,4 @@ Skills
 Python/C++  
 
 **Platform**  
-Pytorch  
+PyTorch  
